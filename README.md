@@ -3,7 +3,7 @@
 
 
 
-# Welcome to Capo's Code Bunker 👋
+# Capo's Code Bunker 👋
 <p align="left"> Olá, pode me chamar de  capo, sou designer há 8 anos e em 2024 </br>
 comecei a migrar minha carreira
 para área de TI como desenvolvedor <strong>Front-End.</strong> 
