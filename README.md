@@ -25,7 +25,7 @@ para área de TI como desenvolvedor <strong>Front-End.</strong>
 
 <p align="left">
 
-<a href="mailto:theoldmatsu@gmail.com" alt="Gmail">
+<a target="_blank" href="mailto:theoldmatsu@gmail.com" alt="Gmail">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 <a href="https://portfolioproject-blush.vercel.app" alt="Portfólio">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a> 
