@@ -8,7 +8,7 @@
 comecei a migrar minha carreira
 para área de TI como desenvolvedor <strong>Front-End.</strong> 
 
-<p>Meu primeiro projeto foi <a href="https://space-connection-website.vercel.app">Space Connection</a> que foi meu primeiro estudo com Front-end. </br>
+<p>Meu primeiro projeto foi <a href="https://space-connection-website.vercel.app">Space Connection</a>, um dos estudos iniciais de Front-end. </br>
 
 ↳ <strong>Linguagens e Ferramentas que ultilizo:</strong></br>
 <ul>
