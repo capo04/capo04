@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/vCLjSvI.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Lo-Fi Boy Study">
+<img  src="https://mustafagunaydin.dev/images/dev.gif" min-width="400px" max-width="500px" width="500px" align="right" alt="Lo-Fi Boy Study">
 
 
 
